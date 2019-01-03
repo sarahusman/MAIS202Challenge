@@ -1,0 +1,15 @@
+I used Jupyter Notebook to write my code and plot my results. The file has extension .ipynb (iPython Notebook)
+
+Rendered blob should show up fine on github, however as mentioned on this page: 
+
+	https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/
+
+The source blob is static html.
+
+You can view my code on an online notebook viewer:
+
+	https://nbviewer.jupyter.org/
+
+By adding my .ipynb file url:
+
+	https://github.com/sarahusman/MAIS202Challenge/blob/master/MAIS202_Challenge_Sarah%20Usman.ipynb
